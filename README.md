@@ -63,9 +63,11 @@ Once the application is running, users can:
 
 ## Screenshots
 
-![alt text](<Screenshot (46).png>)
+![Screenshot (46)](https://github.com/ShivamRawat6397/Yotube-Clone/assets/85786765/8904817c-bce5-4887-a961-c20c6bd08323)
 
-![alt text](<Screenshot (47).png>)
+
+![Screenshot (47)](https://github.com/ShivamRawat6397/Yotube-Clone/assets/85786765/346e9b00-9518-4780-b527-1609f728c32e)
+
 
 ## Contributing
 
